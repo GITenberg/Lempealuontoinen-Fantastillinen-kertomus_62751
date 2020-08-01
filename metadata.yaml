@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '26501'
     url: http://www.gutenberg.org/2009/agents/26501
     wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dostoyevsky, Fyodor
@@ -26,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/314
     wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
 description: 'Translation of: Кроткая [Krotkaya].'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62751#Lempealuontoinen-Fantastillinen-kertomus
 gutenberg_issued: '2020-07-25'
 gutenberg_type: Text
 identifiers:
