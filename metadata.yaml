@@ -1,0 +1,45 @@
+_repo: Lempealuontoinen-Fantastillinen-kertomus_62751
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wuori, Martti
+    birthdate: 1858
+    deathdate: 1934
+    gutenberg_agent_id: '26501'
+    url: http://www.gutenberg.org/2009/agents/26501
+    wikipedia: https://fi.wikipedia.org/wiki/Martti_Wuori
+creator:
+  author:
+    agent_name: Dostoyevsky, Fyodor
+    aliases:
+    - Dostoievski, Fiodor
+    - Dostoyevsky, F. M.
+    - Dostoievski, Fedor Mikhailovitch
+    - Достоевский, Фёдор Михайлович
+    - Dostoyevsky, Fyodor Mikhailovich
+    - Dostojewski, Fjodor Michailowitsch
+    - Dostoevsky, Fyodor
+    - Dostoievski, Fédor Mikhailovitch
+    birthdate: 1821
+    deathdate: 1881
+    gutenberg_agent_id: '314'
+    url: http://www.gutenberg.org/2009/agents/314
+    wikipedia: https://en.wikipedia.org/wiki/Fyodor_Dostoevsky
+description: 'Translation of: Кроткая [Krotkaya].'
+gutenberg_issued: '2020-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62751'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russian fiction -- Translations into Finnish'
+- !lcc 'PG'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Russia -- Social life and customs -- Fiction'
+- !lcsh 'Suicide -- Fiction'
+- GITenberg
+title: 'Lempeäluontoinen: Fantastillinen kertomus'
+url: http://www.gutenberg.org/ebooks/62751
